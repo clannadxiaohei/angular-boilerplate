@@ -28,7 +28,7 @@
               "projects/site/src/assets"
             ],
             "styles": [
-              "projects/site/src/styles.scss"
+              "projects/site/src/styles/styles.scss"
             ],
             "scripts": []
           },
@@ -91,7 +91,7 @@
               "projects/site/src/assets"
             ],
             "styles": [
-              "projects/site/src/styles.scss"
+              "projects/site/src/styles/styles.scss"
             ],
             "scripts": []
           }
