@@ -1,0 +1,13 @@
+.clannad-menu {
+  background-color: #a62e21;
+
+  &__item {
+    color: #fff;
+    padding: 1em;
+
+    &--selected {
+      background-color: #fff;
+      color: #a62e21;
+    }
+  }
+}

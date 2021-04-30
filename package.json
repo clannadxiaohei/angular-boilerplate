@@ -30,6 +30,7 @@
     "@angular/compiler-cli": "~11.2.5",
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
+    "@namics/stylelint-bem": "^6.3.1",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
